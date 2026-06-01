@@ -1,0 +1,10 @@
+## Technologies Used
+- Python
+- NumPy
+- SciPy
+- Matplotlib
+ 
+## Requirements
+Install required libraries:
+   ```bash
+   pip install scipy numpy matplotlib
